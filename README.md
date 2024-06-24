@@ -1,3 +1,7 @@
+
+| ![](login.png)   | ![](main.png)   |
+|------------------|-----------------|
+
 ## Inspiration
 Have you ever studied for an exam last minute? Got frustrated with hand making individual flash cards? We have the solution for you!
 
